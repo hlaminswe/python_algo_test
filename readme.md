@@ -19,4 +19,6 @@ The output:
 
 5
 
+**For printing \* **
+
 ![Result image](https://github.com/hlaminswe/python_algo_test/blob/master/output.png)
