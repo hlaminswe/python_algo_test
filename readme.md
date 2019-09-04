@@ -1,6 +1,8 @@
 TO test algo
 
-from next_prime import \*
+```python
+from next_prime import
+```
 
 next_prime(2)
 
