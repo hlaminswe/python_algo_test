@@ -2,15 +2,18 @@ TO test algo
 
 ```python
 from next_prime import
-```
 
 next_prime(2)
+
+```
 
 The output:
 
 2
 
+```python
 next_prime(4)
+```
 
 The output:
 
